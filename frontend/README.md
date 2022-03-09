@@ -1,5 +1,5 @@
 # Env
 
 ```env
-REACT_APP_BASE_URL=urlbackend
+REACT_APP_BASE_URL=url_backend
 ```
